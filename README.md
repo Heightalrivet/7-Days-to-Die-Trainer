@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`7-Days-to-Die-Trainer` · Updated: 2026-10-30
+`7-Days-to-Die-Trainer` · Updated: 2026-11-04
 
 **Tags:** `7-days-to-die` `trainer` `pc-gaming` `gameplay` `progress-tracking` `windows` `steam`
